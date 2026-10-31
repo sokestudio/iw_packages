@@ -1,0 +1,49 @@
+{
+  "files": [
+    {
+      "name": "1.mp4",
+      "bytes": 10921302,
+      "sha256": "f1f83847c3f53b3bc664b1c78dc17ed65b56385bb6b0e52f6cfe949678d35b43"
+    },
+    {
+      "name": "2.bmp",
+      "bytes": 3768062,
+      "sha256": "6a9c3611a7917a54b79373e3c9ad58c75adaa71d641b8cdeddc2cc2f4e53c288"
+    },
+    {
+      "name": "3.bmp",
+      "bytes": 3768062,
+      "sha256": "16c518073ffa45abe27d103af1cafaf56978490cdd836f23b8716daa1a522e8f"
+    },
+    {
+      "name": "4.bmp",
+      "bytes": 3768062,
+      "sha256": "9269c4d884ae664debf30c39beff9a34678f76298fee127fcb3e915e7547cddb"
+    },
+    {
+      "name": "5.bmp",
+      "bytes": 3768062,
+      "sha256": "cd643970cb49dbee63c66f688d93af47d39d46c4ca8c8f4bf7f8b3e4085f667a"
+    },
+    {
+      "name": "6.bmp",
+      "bytes": 3768062,
+      "sha256": "a89eb72463068756ac3c0e253800dfa3797a54f9ba573903acc0a581446ff143"
+    },
+    {
+      "name": "7.bmp",
+      "bytes": 3768062,
+      "sha256": "74d0bbedbc525a946ae7e74340f413cd3e4aa1d78d01a5f35ea7818d74d8ebdc"
+    },
+    {
+      "name": "8.bmp",
+      "bytes": 3768062,
+      "sha256": "8d3bb7eac9526418cac9e3f629b3c749c1d492f917a8123f6761e4599c5efa95"
+    },
+    {
+      "name": "video-poster.jpg",
+      "bytes": 106543,
+      "sha256": "ed02e34af6bf0c5f0e92ef902fcbb3f8dc2d98c7b920c209a428e4e40157ae0b"
+    }
+  ]
+}
