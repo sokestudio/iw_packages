@@ -1,5 +1,15 @@
 # iw_packages
 
+ImageWindow 公开分发仓库，仅存放安装包发布记录与官网展示素材，不包含客户端源码或任何凭据。
+
+- [网页素材](website/20261031/)
+- [正式发布与安装包](https://github.com/sokestudio/iw_packages/releases)
+- [迁移范围及兼容性说明](MIGRATION.md)
+
+官网与已安装客户端的更新源在用户确认前仍保持 GitLab；创建 GitHub 发布记录不会自动改变旧客户端的更新协议。
+
+以下为从原仓库保留的初始化模板。
+
 
 
 ## Getting started
